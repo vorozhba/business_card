@@ -18,3 +18,7 @@
 
 После этого сохраняет HTML-файл визитки с именем вида `%Y-%m-%d_%H-%M.html` в текущую директорию.  
 Шаблон для генерации HTML-файла находится в файле `template.html`.
+
+### Пример:
+![Окно программы](https://github.com/vorozhba/business_card/blob/master/figures/example1.png)
+![Результат](https://github.com/vorozhba/business_card/blob/master/figures/example2.png)
